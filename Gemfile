@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bulma-rails', '~> 0.7.5'
 
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 
 
 
