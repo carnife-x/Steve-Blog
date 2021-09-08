@@ -52,7 +52,7 @@ group :development do
   gem 'web-console', '>= 3.3.0'
   gem 'guard', '~> 2.15'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
-  gem 'better_errors', '~> 2.1', '>= 2.1.1'
+  gem 'better_errors', '~> 2.8'
 end
 
 group :test do
